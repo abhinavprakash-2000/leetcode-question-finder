@@ -32,3 +32,4 @@ Start the server
   flask --app app run
 ```
 
+HOSTED ON https://tf-idf-q-finder.onrender.com/
