@@ -140,7 +140,7 @@ def calc_docs_sorted_order(q_terms):
 
 # Use of Flask
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'aryan-goenka'
+app.config['SECRET_KEY'] = 'abhinav'
 
 # Search Form for user to input the query
 class Search_Form(FlaskForm):
